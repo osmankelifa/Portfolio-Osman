@@ -25,7 +25,7 @@ import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
 import projectImage5 from "./assets/projects/project5.jpg";
-import projectImage6 from "./assets/projects/project6.jpg";
+// import projectImage6 from "./assets/projects/project6.jpg";
 
 // Logos
 export const logos = {
@@ -162,7 +162,6 @@ project lorem ipsum generator for dummy content`,
     previewLink: "https://toolio-six.vercel.app/",
     githubLink: "https://github.com",
   },
-  
 ];
 
 // Enter your Contact Details here
