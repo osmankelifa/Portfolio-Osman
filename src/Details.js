@@ -141,7 +141,7 @@ export const projectDetails = [
     image: projectImage3,
     description: ``,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://cute-capybara-5cf3fd.netlify.app/https://google.com",
+    previewLink: "https://cute-capybara-5cf3fd.netlify.app/",
     githubLink: "https://github.com/osmankelifa/next-html-css-js",
   },
   {
