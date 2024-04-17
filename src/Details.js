@@ -131,8 +131,7 @@ export const projectDetails = [
   {
     title: "My 90 web page",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: ``,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://zingy-tartufo-a9ed2b.netlify.app/",
     githubLink: "https://github.com/osmankelifa/My-90s",
@@ -140,8 +139,7 @@ project lorem ipsum generator for dummy content`,
   {
     title: "Next technologies",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: ``,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://cute-capybara-5cf3fd.netlify.app/https://google.com",
     githubLink: "https://github.com/osmankelifa/next-html-css-js",
