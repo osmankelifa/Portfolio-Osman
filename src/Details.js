@@ -123,7 +123,7 @@ export const projectDetails = [
   {
     title: "My first ever web page",
     image: projectImage1,
-    description: `The humble beginnings`,
+    description: `The humble beginnings. Everyone starts at some point as a blank page, I had never coded before this project, here we are  learning the tools of html and css.`,
     techstack: "HTML/CSS",
     previewLink: "https://steady-paprenjak-3f5125.netlify.app/",
     githubLink: "https://github.com",
@@ -131,7 +131,7 @@ export const projectDetails = [
   {
     title: "My 90 web page",
     image: projectImage2,
-    description: ``,
+    description: `This project was asigned by our teacher to make a website inspired by the 90s`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://zingy-tartufo-a9ed2b.netlify.app/",
     githubLink: "https://github.com/osmankelifa/My-90s",
@@ -139,7 +139,7 @@ export const projectDetails = [
   {
     title: "Next technologies",
     image: projectImage3,
-    description: ``,
+    description: `Followed a tutorial to learn how to make a responsive website with a dropdown menu and som css animation.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://cute-capybara-5cf3fd.netlify.app/",
     githubLink: "https://github.com/osmankelifa/next-html-css-js",
@@ -155,7 +155,8 @@ export const projectDetails = [
   {
     title: "Toolio",
     image: projectImage5,
-    description: `A Momentum rip off, learned how to use apis`,
+    description: `Our first project using React. we learned how to use components, hooks and apis.
+    We got inspired by Momentum website`,
     techstack: "HTML/CSS, React",
     previewLink: "https://toolio-six.vercel.app/",
     githubLink: "https://github.com",
