@@ -79,7 +79,7 @@ function Home() {
         </h2>
       </div>
       <div className="mt-5 md:mt-0">
-        <div className=" w-52 md:ml-auto">
+        <div className=" w-56 md:ml-auto">
         <img
           ref={myimageref}
           

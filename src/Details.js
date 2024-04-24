@@ -1,9 +1,9 @@
 // Enter all your detials in this file
 // Logo images
 // import logogradient from "./assets/logo.svg";
-import logo from "./assets/logo.png";
+import logo from "./assets/intials1.png";
 // Profile Image
-import profile from "./assets/osman.png";
+import profile from "./assets/osman2.png";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
