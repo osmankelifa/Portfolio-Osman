@@ -82,9 +82,9 @@ function Home() {
         <div className=" w-56 md:ml-auto">
         <img
           ref={myimageref}
-          
           src={img}
           alt="Osman Kelifa"
+          style={{ width: '250px', height: 'auto' }} // Apply inline styles here
           />
       </div>
           </div>
