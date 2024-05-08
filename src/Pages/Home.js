@@ -58,7 +58,7 @@ function Home() {
 
   return (
     <main className="container mx-auto max-width section md:flex justify-between items-center">
-      <div>
+      <div className=" flex-1">
         {/* <h1
           ref={h11}
           className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
@@ -78,16 +78,16 @@ function Home() {
           {tagline}
         </h2>
       </div>
-      <div className="mt-5 md:mt-0">
+      <div ref={myimageref} className="mt-5 md:mt-0 flex-1">
         <div className=" w-56 md:ml-auto">
-        <img
+          <img
           ref={myimageref}
           src={img}
           alt="Osman Kelifa"
-          style={{ width: '250px', height: 'auto' }} // Apply inline styles here
+          className=" w-full h-full object-cover"
           />
+        </div>
       </div>
-          </div>
     </main>
   );
 }
